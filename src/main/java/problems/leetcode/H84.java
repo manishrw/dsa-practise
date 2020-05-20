@@ -1,4 +1,4 @@
-package problems;
+package problems.leetcode;
 
 public class H84 {
     public boolean debug = false;

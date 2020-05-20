@@ -1,4 +1,4 @@
-package problems;
+package problems.leetcode;
 
 // import java.util.Collections;
 import java.util.Deque;

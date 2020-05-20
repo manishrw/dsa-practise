@@ -1,4 +1,4 @@
-package problems;
+package problems.leetcode;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
