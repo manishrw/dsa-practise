@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com</groupId>
-  <artifactId>leetcode</artifactId>
+  <artifactId>dsa-practise</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>leetcode</name>
+  <name>dsa-practise</name>
   <!-- FIXME change it to the project's website -->
   <url>http://leetcode.com/problemset/all</url>
 
