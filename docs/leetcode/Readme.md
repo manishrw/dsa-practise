@@ -1,4 +1,4 @@
-Leetcode Top Questions - 2020
+# Leetcode Top Questions - 2020
 
 - [Nutanix Questions](./questions/nutanix-questions.md)
 - [Ms Questions](./questions/ms-questions.md)
