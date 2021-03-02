@@ -7,32 +7,38 @@ import java.util.Optional;
 import java.util.Set;
 
 public class UnionFind<T> {
-    private final Map<T, Pair<T, Integer>> parentMap;
+    private final Map<T, T> parentMap;
+    private final Map<T, Integer> heightMap;
 
     public UnionFind() {
-        this.parentMap = new HashMap<>();
+        parentMap = new HashMap<>();
+        heightMap = new HashMap<>();
     }
 
     public void union (T a, T b) {
         Optional<T> optionalA = find(a);
         Optional<T> optionalB = find(b);
         if (optionalA.isEmpty() && optionalB.isEmpty()) {
-            parentMap.put(b, new Pair<>(a, 0));
-            parentMap.put(a, new Pair<>(a, 1));
+            parentMap.put(b, a);
+            parentMap.put(a, a);
+            heightMap.put(b, 0);
+            heightMap.put(a, 1);
         } else if (optionalA.isEmpty()) {
-            parentMap.put(a, new Pair<>(b, 0));
+            parentMap.put(a, b);
+            heightMap.put(a, 0);
         } else if (optionalB.isEmpty()) {
-            parentMap.put(b, new Pair<>(a, 0));
+            parentMap.put(b, a);
+            heightMap.put(b, 0);
         } else if (!optionalA.equals(optionalB)) {
             T rootA = optionalA.get();
             T rootB = optionalB.get();
-            int heightA = parentMap.get(rootA).getRight();
-            int heightB = parentMap.get(rootB).getRight();
+            int heightA = heightMap.get(rootA);
+            int heightB = heightMap.get(rootB);
             if (heightA < heightB) {
-                parentMap.get(rootA).left(rootB);
+                parentMap.put(rootA, rootB);
             } else {
-                parentMap.get(rootB).left(rootA);
-                if (heightA == heightB) parentMap.get(rootA).right(heightA + 1);
+                parentMap.put(rootB, rootA);
+                if (heightA == heightB) heightMap.put(rootA, heightA + 1);
             }
         }
     }
@@ -40,8 +46,8 @@ public class UnionFind<T> {
     public Optional<T> find (T a) {
         if (!parentMap.containsKey(a)) return Optional.empty();
         T cur = a;
-        while (!cur.equals(parentMap.get(cur).getLeft()))
-            cur = parentMap.get(cur).getLeft();
+        while (!cur.equals(parentMap.get(cur)))
+            cur = parentMap.get(cur);
         return Optional.of(cur);
     }
 
@@ -49,7 +55,7 @@ public class UnionFind<T> {
         Set<T> set = new HashSet<>();
         for (var e : parentMap.entrySet()) {
             var node = e.getKey();
-            var parent = e.getValue().getLeft();
+            var parent = e.getValue();
             if (node.equals(parent)) {
                 set.add(node);
             }
