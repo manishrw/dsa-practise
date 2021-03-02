@@ -1,6 +1,6 @@
 package problems.leetcode;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class H51Test {
     H51 solution = new H51();

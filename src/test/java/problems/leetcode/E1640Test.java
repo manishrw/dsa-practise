@@ -1,6 +1,6 @@
 package problems.leetcode;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class E1640Test {
     E1640 solution = new E1640();

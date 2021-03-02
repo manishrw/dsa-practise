@@ -1,7 +1,8 @@
 package problems.leetcode;
 
-import static org.junit.Assert.assertEquals;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class H4Test {
     H4 solution = new H4();

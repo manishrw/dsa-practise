@@ -1,12 +1,12 @@
 # Leetcode Top Questions - 2020
 
 - [Nutanix Questions](./questions/nutanix-questions.md)
-- [Ms Questions](./questions/ms-questions.md)
+- [Microsoft Questions](./questions/ms-questions.md)
 - [Yahoo Questions](./questions/yahoo-questions.md)
 - [Amazon Questions](./questions/amazon-questions.md)
 - [Google Questions](./questions/google-questions.md)
 - [Adobe Questions](./questions/adobe-questions.md)
-- [Fb Questions](./questions/fb-questions.md)
+- [Facebook Questions](./questions/fb-questions.md)
 - [Vmware Questions](./questions/vmware-questions.md)
 - [Paypal Questions](./questions/paypal-questions.md)
 - [Snapchat Questions](./questions/snapchat-questions.md)
