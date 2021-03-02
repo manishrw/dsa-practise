@@ -52,6 +52,10 @@ buildNumber.properties
 # Ignore all local history of files
 .history
 
+# IntelliJ files
+*.iml
+.idea
+
 # Mac specific files
 .DS_Store
 .classpath

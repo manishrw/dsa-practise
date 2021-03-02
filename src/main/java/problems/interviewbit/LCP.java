@@ -81,7 +81,7 @@ class TrieNode {
     @Override
     public String toString() {
         return "{" +
-            "value='" + value + "'" +
+            "right='" + value + "'" +
             ", height='" + height + "'" +
             ", count='" + count + "'" +
             ", children='" + children + "'" +

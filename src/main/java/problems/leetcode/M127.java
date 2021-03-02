@@ -13,6 +13,8 @@ import java.util.Set;
 import utils.Pair;
 
 public class M127 {
+    private boolean debug = false;
+
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         // Remove duplicates and create vertex list
         Set<String> vertexSet = new HashSet<>(wordList);
@@ -35,12 +37,12 @@ public class M127 {
         }
         
         // Print graph using edge matrix
-        // System.out.println(vertex);
+        if (debug) System.out.println(vertex);
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                // System.out.print(edgeMatrix[i][j] ? "1 " : "0 ");
+                if(debug) System.out.print(edgeMatrix[i][j] ? "1 " : "0 ");
             }
-            // System.out.println();
+            if(debug) System.out.println();
         }
         
         // Graph search to check if dst is reachable from src and find length
@@ -52,24 +54,24 @@ public class M127 {
             if (vertex.get(i).equals(endWord))
                 dst = i;
         }
-        // System.out.println("Src: " + src + ", Dst: " + dst);
+        if(debug) System.out.println("Src: " + src + ", Dst: " + dst);
         
         // BFS to check the path
-        LinkedList<Pair> queue = new LinkedList<>();
+        LinkedList<Pair<Integer, Integer>> queue = new LinkedList<>();
         Set<Integer> visited = new HashSet<>();
-        queue.add(new Pair(src, 1));
+        queue.add(new Pair<>(src, 1));
         visited.add(src);
         while (!queue.isEmpty()) {
-            Pair p = queue.remove();
-            int node = (int) p.getKey();
-            int len = (int) p.getValue();
-            // System.out.println("Node: " + node + ", Len: " + len);
+            var p = queue.remove();
+            int node = p.getLeft();
+            int len = p.getRight();
+            if(debug) System.out.println("Node: " + node + ", Len: " + len);
             if (node == dst)
                 return len;
             for (int i = 0; i < n; i++) {
                 if (visited.contains(i) || i == node) continue;
                 if (edgeMatrix[node][i]) {
-                    queue.add(new Pair(i, len + 1));
+                    queue.add(new Pair<>(i, len + 1));
                     visited.add(i);
                 }
             }
