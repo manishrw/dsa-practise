@@ -1,6 +1,6 @@
 # dsa-practise
 
-A repository for Data structures and Algorithms practise. The repository also lists out the top interview questions asked by the company in 2020. The repository also has a solution to some of the problems.
+A repository for Data structures and Algorithms practise. The repository also lists out the top interview questions asked by the companies till 2021. The repository also has a solution to some of the problems.
 
 ### Top Interview questions
 - [Leetcode top questions](./docs/leetcode/Readme.md)
