@@ -63,8 +63,8 @@ public class M127 {
         visited.add(src);
         while (!queue.isEmpty()) {
             var p = queue.remove();
-            int node = p.getLeft();
-            int len = p.getRight();
+            int node = p.getKey();
+            int len = p.getValue();
             if(debug) System.out.println("Node: " + node + ", Len: " + len);
             if (node == dst)
                 return len;
