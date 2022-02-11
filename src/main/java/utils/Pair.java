@@ -15,7 +15,15 @@ public class Pair<X, Y> {
         return left;
     }
 
+    public X getKey() {
+        return left;
+    }
+
     public Y getRight() {
+        return right;
+    }
+
+    public Y getValue() {
         return right;
     }
 
@@ -44,7 +52,7 @@ public class Pair<X, Y> {
         if (!(o instanceof Pair)) {
             return false;
         }
-        Pair<X, Y> pair = (Pair<X, Y>) o;
+        final Pair<X, Y> pair = (Pair<X, Y>) o;
         return left == pair.left && right == pair.right;
     }
 
