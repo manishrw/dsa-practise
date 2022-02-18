@@ -64,4 +64,23 @@ class ValidPathTest {
 
         assertEquals("YES", result);
     }
+
+    /*
+        A : 58
+        B : 91
+        C : 6
+        D : 8
+        E : [ 40, 6, 36, 38, 23, 54 ]
+        F : [ 88, 14, 50, 10, 15, 5 ]
+    */
+    @Test
+    void testPositiveCase3() {
+        int A = 58, B = 91, C = 6, D = 8;
+        var E = Arrays.asList(40, 6, 36, 38, 23, 54);
+        var F = Arrays.asList(88, 14, 50, 10, 15, 5);
+
+        var result = solution.solve(A, B, C, D, E, F);
+
+        assertEquals("YES", result);
+    }
 }

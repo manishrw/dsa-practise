@@ -34,12 +34,9 @@ public class ValidPath {
         }
 
         boolean hasPoint(int px, int py) {
-            int x = center.x;
-            int y = center.y;
-            return px <= x + r
-                    && px >= x - r
-                    && py <= y + r
-                    && py >= y - r;
+            int dx = center.x - px;
+            int dy = center.y - py;
+            return dx * dx + dy * dy <= r * r;
         }
 
         boolean hasPoint(Point p) {
