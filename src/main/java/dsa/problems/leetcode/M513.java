@@ -1,11 +1,11 @@
 /*
 * Medium 513 -  Find Bottom Left Tree Value
 */
-package problems.leetcode;
+package dsa.problems.leetcode;
+
+import dsa.utils.Pair;
 
 import java.util.*;
-
-import utils.Pair;
 
 public class M513 {
     static class TreeNode {

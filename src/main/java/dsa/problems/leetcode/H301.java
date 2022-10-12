@@ -2,7 +2,7 @@
  * Hard 301: Remove Invalid Parentheses
  * Reference: https://leetcode.com/problems/remove-invalid-parentheses/
  */
-package problems.leetcode;
+package dsa.problems.leetcode;
 
 import java.util.ArrayList;
 import java.util.HashSet;
