@@ -2,7 +2,7 @@
  * InterviewBit - Valid Path problem
  * https://www.interviewbit.com/problems/valid-path/
  */
-package problems.interviewbit;
+package dsa.problems.interviewbit;
 
 import java.util.*;
 
