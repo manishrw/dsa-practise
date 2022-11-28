@@ -3,6 +3,8 @@
  */
 package dsa.problems.leetcode;
 
+import dsa.utils.ListNode;
+
 import java.util.*;
 
 public class H23 {
@@ -26,18 +28,5 @@ public class H23 {
             prev = current;
         }
         return head;
-    }
-
-    static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) { this.val = val; }
-        ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-
-        @Override
-        public String toString() {
-            return val + " -> " + (Objects.isNull(this.next) ? "Null" : this.next.toString());
-        }
     }
 }
