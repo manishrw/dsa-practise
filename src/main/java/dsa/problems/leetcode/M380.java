@@ -1,3 +1,7 @@
+/*
+ * Medium 380. Insert Delete GetRandom O(1)
+ * https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+ */
 package dsa.problems.leetcode;
 
 import java.util.ArrayList;
@@ -6,10 +10,17 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
+/**
+ * Your RandomizedSet object will be instantiated and called as such:
+ * RandomizedSet obj = new RandomizedSet();
+ * boolean param_1 = obj.insert(val);
+ * boolean param_2 = obj.remove(val);
+ * int param_3 = obj.getRandom();
+ */
 class M380 {
     
-    private List<Integer> list;
-    private Map<Integer, Integer> map;
+    private final List<Integer> list;
+    private final Map<Integer, Integer> map;
     Random rand;
 
     /** Initialize your data structure here. */
@@ -51,11 +62,3 @@ class M380 {
         return list.get(rand.nextInt(list.size()));
     }
 }
-
-/**
- * Your RandomizedSet object will be instantiated and called as such:
- * RandomizedSet obj = new RandomizedSet();
- * boolean param_1 = obj.insert(val);
- * boolean param_2 = obj.remove(val);
- * int param_3 = obj.getRandom();
- */
