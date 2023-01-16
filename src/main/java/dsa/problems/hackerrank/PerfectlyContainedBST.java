@@ -10,20 +10,35 @@
 package dsa.problems.hackerrank;
 
 import java.util.*;
+import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.stream.Collectors;
 
 public class PerfectlyContainedBST {
     public static int findRoot(List<List<Integer>> nodes) {
         var nodeMap = new HashMap<Integer, List<Integer>>();
         var parentMap = new HashMap<Integer, Integer>();
+        var invalid = new AtomicBoolean(false);
         nodes.forEach(node -> {
             var value = node.get(0);
             var left = node.get(1);
             var right = node.get(2);
-            if (left != -1) parentMap.put(left, value);
-            if (right != -1) parentMap.put(right, value);
+            if (left != -1) {
+                if (parentMap.containsKey(left)) {
+                    invalid.set(true);
+                    return;
+                }
+                parentMap.put(left, value);
+            }
+            if (right != -1) {
+                if (parentMap.containsKey(right)) {
+                    invalid.set(true);
+                    return;
+                }
+                parentMap.put(right, value);
+            }
             nodeMap.put(value, node);
         });
+        if (invalid.get()) return -1;
 
         // Check all nodes are in the same tree
         var roots = nodes.stream()

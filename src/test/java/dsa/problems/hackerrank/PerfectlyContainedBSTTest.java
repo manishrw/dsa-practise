@@ -71,6 +71,19 @@ class PerfectlyContainedBSTTest {
     }
 
     @Test
+    void testInvalidBSTWithMultipleParents() {
+        List<List<Integer>> nodes = List.of(
+                List.of(7, 3, -1),
+                List.of(5, 3, 7),
+                List.of(3, -1, -1)
+        );
+
+        var expected = -1;
+        var actual = PerfectlyContainedBST.findRoot(nodes);
+        assert expected == actual;
+    }
+
+    @Test
     void testMultipleRoots() {
         List<List<Integer>> nodes = List.of(
                 List.of(30,23,5),
