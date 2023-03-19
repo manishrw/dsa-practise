@@ -12,29 +12,78 @@
  */
 package dsa.problems.scaler;
 
-import java.util.Collection;
-import java.util.Objects;
+import java.util.*;
 
 public class MovieSolution {
     // Your data structures go here
+    Map<String, TreeSet<Movie>> orderedMoviesByGenre;
+    Map<String, Movie> movieByName;
+    Comparator<Movie> movieComparator;
+
+    public MovieSolution() {
+        orderedMoviesByGenre = new HashMap<>();
+        movieByName = new HashMap<>();
+        movieComparator = Comparator.comparing(Movie::getScore).thenComparing(Movie::getName);
+    }
 
     public String getMovieWithMaxTrendScoreByGenre(String genre) {
         // your code goes here...
-        return null;
+        if (orderedMoviesByGenre.containsKey(genre)) {
+            return orderedMoviesByGenre.get(genre).last().getName();
+        }
+        return "";
     }
 
     public void updateMovieTrendScore(String movieName, int score) {
         // your code goes here...
+        if (movieByName.containsKey(movieName)) {
+            var movie = movieByName.get(movieName);
+            var movies = orderedMoviesByGenre.get(movie.getGenre());
+            movies.remove(movie);
+            movie.setScore(score);
+            movies.add(movie);
+        }
     }
 
     // Methods not under test
     public void addAll(Collection<Movie> movies) {
+        movies.forEach(this::add);
+    }
+
+    public void add(Movie movie) {
+        movieByName.put(movie.getName(), movie);
+        orderedMoviesByGenre.computeIfAbsent(movie.getGenre(), k -> new TreeSet<>(movieComparator));
+        orderedMoviesByGenre.get(movie.getGenre()).add(movie);
     }
 
     static class Movie {
         String name;
         String genre;
         int score;
+
+        public String getName() {
+            return name;
+        }
+
+        public void setName(String name) {
+            this.name = name;
+        }
+
+        public String getGenre() {
+            return genre;
+        }
+
+        public void setGenre(String genre) {
+            this.genre = genre;
+        }
+
+        public int getScore() {
+            return score;
+        }
+
+        public void setScore(int score) {
+            this.score = score;
+        }
 
         public Movie(String name, String genre, int score) {
             this.name = name;

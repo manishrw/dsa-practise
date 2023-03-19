@@ -1,6 +1,6 @@
 package dsa.problems.scaler;
 
-import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
@@ -10,7 +10,7 @@ class MovieSolutionTest {
 
     MovieSolution solution;
 
-    @BeforeAll
+    @BeforeEach
     void setup() {
         solution = new MovieSolution();
         List<MovieSolution.Movie> movies = Arrays.asList(
@@ -30,6 +30,13 @@ class MovieSolutionTest {
     void getMovieWithMaxTrendScoreByGenre() {
         var actual = solution.getMovieWithMaxTrendScoreByGenre("g1");
         var expected = "m5";
+        assert expected.equals(actual);
+    }
+
+    @Test
+    void getMovieWithMaxTrendScoreByGenreWithInvalidGenre() {
+        var actual = solution.getMovieWithMaxTrendScoreByGenre("g100");
+        var expected = "";
         assert expected.equals(actual);
     }
 
