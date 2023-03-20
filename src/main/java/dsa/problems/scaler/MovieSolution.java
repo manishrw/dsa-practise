@@ -28,8 +28,12 @@ public class MovieSolution {
 
     public String getMovieWithMaxTrendScoreByGenre(String genre) {
         // your code goes here...
-        if (orderedMoviesByGenre.containsKey(genre)) {
-            return orderedMoviesByGenre.get(genre).last().getName();
+        try {
+            if (orderedMoviesByGenre.containsKey(genre)) {
+                return orderedMoviesByGenre.get(genre).last().getName();
+            }
+        } catch (NoSuchElementException ex) {
+            return "";
         }
         return "";
     }
