@@ -2,8 +2,6 @@ package dsa.problems.leetcode;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class M79Test {
     M79 solution = new M79();
 
