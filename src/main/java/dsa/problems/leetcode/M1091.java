@@ -1,6 +1,8 @@
 /*
  * Leetcode: 1091. Shortest Path in Binary Matrix
+ * https://leetcode.com/problems/shortest-path-in-binary-matrix/
  */
+
 package dsa.problems.leetcode;
 
 import dsa.utils.Pair;
@@ -25,9 +27,9 @@ public class M1091 {
         }
 
         int[][] dp = new int[n][m];
-        dp[n - 1][m - 1] = -1;
+        // dp[n - 1][m - 1] = -1;
         bfs(grid, dp, n, m);
-        return dp[n - 1][m - 1];
+        return dp[n - 1][m - 1] == 0 ? -1 : dp[n - 1][m - 1];
     }
 
     private void bfs(int[][] grid, int[][] dp, int n, int m) {
@@ -47,8 +49,10 @@ public class M1091 {
                 var x1 = x + dx[i];
                 var y1 = y + dy[i];
                 if (x1 >= 0 && x1 < n && y1 >= 0 && y1 < m && grid[x1][y1] == 0) {
-                    dp[x1][y1] = dp[x][y] + 1;
-                    queue.add(new Pair<>(x1, y1));
+                    if (dp[x1][y1] == 0 || dp[x1][y1] > dp[x][y] + 1) {
+                        dp[x1][y1] = dp[x][y] + 1;
+                        queue.add(new Pair<>(x1, y1));
+                    }
                 }
             }
             grid[x][y] = 1;
