@@ -21,12 +21,12 @@ class M5 {
             DP.add(tmp);
         }
 
-        DP.forEach((list) -> {
-            list.forEach((i) -> {
-                System.out.print(i + " ");
-            });
-            System.out.println();
-        });
+        // DP.forEach((list) -> {
+        //     list.forEach((i) -> {
+        //         System.out.print(i + " ");
+        //     });
+        //     System.out.println();
+        // });
 
         int maxLP = 1;
         int maxI = 0, maxJ = 0;
@@ -46,13 +46,13 @@ class M5 {
             }
         }
 
-        System.out.println();
-        DP.forEach((list) -> {
-            list.forEach((i) -> {
-                System.out.print(i + " ");
-            });
-            System.out.println();
-        });
+        // System.out.println();
+        // DP.forEach((list) -> {
+        //     list.forEach((i) -> {
+        //         System.out.print(i + " ");
+        //     });
+        //     System.out.println();
+        // });
         
         return s.substring(maxI, maxJ + 1);
     }
