@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class LCP {
-    private boolean debug = true;
+    private boolean debug = false;
 
     public String longestCommonPrefix(String[] A) {
         TrieNode head = new TrieNode('*');
