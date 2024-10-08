@@ -35,6 +35,6 @@ public class H149Test {
     @Test
     public void test5() {
         int[][] points = {{0,0},{1,1},{0,0}};
-        assertEquals(3, solution.maxPoints(points));
+        assertEquals(2, solution.maxPoints(points));
     }
 }

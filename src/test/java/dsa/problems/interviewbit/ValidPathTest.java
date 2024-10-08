@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class ValidPathTest {
 
-    private final ValidPath solution = new ValidPath(true);
+    private final ValidPath solution = new ValidPath(false);
 
     @Test
     void testNegativeCase() {
