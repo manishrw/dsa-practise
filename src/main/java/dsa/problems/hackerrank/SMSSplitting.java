@@ -17,7 +17,7 @@ public class SMSSplitting {
 
     public static List<String> segments(String message) {
         int length = message.length();
-        System.out.println("Length is " + length);
+        // System.out.println("Length is " + length);
         List<String> resultList = new ArrayList<>();
         if (length <= 160) {
             resultList.add(message);
@@ -57,7 +57,7 @@ public class SMSSplitting {
                 wordIndex++;
             }
             resultList.add(String.format("%s (%d/%d)", sj.toString(), segmentIndex, totalSegments));
-            System.out.println(String.format("%s, Size: %d, Allowed: %d", resultList.get(segmentIndex - 1), resultList.get(segmentIndex - 1).length(), lengthAllowed));
+            // System.out.println(String.format("%s, Size: %d, Allowed: %d", resultList.get(segmentIndex - 1), resultList.get(segmentIndex - 1).length(), lengthAllowed));
         }
         return resultList; //Arrays.asList(message.split("(?<=\\G.{160})"));
     }

@@ -11,7 +11,7 @@ public class M2191 {
         int idx = 0;
         for (int num: nums) {
             int result = this.getMappedValue(num, mapping);
-            System.out.printf("%d -> %d%n", num, result);
+            // System.out.printf("%d -> %d%n", num, result);
             mapResult[idx++] = result;
         }
 

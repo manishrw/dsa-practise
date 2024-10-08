@@ -20,7 +20,7 @@ class E724Test {
             int n = arr[0];
             int expected = arr[1];
             int pivot = solution.pivotInteger(n);
-            System.out.printf("Pivot for %d is %d%n", n, pivot);
+            // System.out.printf("Pivot for %d is %d%n", n, pivot);
             assert pivot == expected;
         });
     }

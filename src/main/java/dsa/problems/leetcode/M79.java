@@ -17,7 +17,6 @@ public class M79 {
     };
 
     public boolean exist(char[][] board, String word) {
-        StringBuilder sb = new StringBuilder(word.length());
         Set<Integer> visited = new HashSet<>();
         int n = board.length, m = board[0].length;
         for (int i = 0; i < n; i++) {
@@ -52,7 +51,7 @@ public class M79 {
             int dx = ints[0], dy = ints[1];
             int x1 = x + dx;
             int y1 = y + dy;
-            if (x1 >= 0 && x1 < n && y1 >= 0 && y1 < m) System.out.println("-> " + x1 + ", " + y1);
+            if (x1 >= 0 && x1 < n && y1 >= 0 && y1 < m) if (DEBUG_MODE) System.out.println("-> " + x1 + ", " + y1);
             if (x1 >= 0 && x1 < n && y1 >= 0 && y1 < m && !visited.contains(x1 * m + y1) && exist(board, x1, y1, visited, word, wordIdx + 1))
                 return true;
         }

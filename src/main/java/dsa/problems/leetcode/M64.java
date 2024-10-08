@@ -8,7 +8,7 @@ public class M64 {
         int m = grid.length;
         if (m == 0) return 0;
         int n = grid[0].length;
-        System.out.println(m + " " + n);
+        // System.out.println(m + " " + n);
 
         int[][] dp = new int[m][n];
         for (int i = 0; i < m; i++) {
@@ -24,12 +24,12 @@ public class M64 {
                 }
             }
         }
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                System.out.print(dp[i][j] + " ");
-            }
-            System.out.println();
-        }
+        // for (int i = 0; i < m; i++) {
+        //     for (int j = 0; j < n; j++) {
+        //         System.out.print(dp[i][j] + " ");
+        //     }
+        //     System.out.println();
+        // }
         return dp[m - 1][n - 1];
     }
 }
