@@ -27,6 +27,11 @@ public class Driver {
                 "E"
         );
         Game game = new Game(playerIds, snakes, ladders);
+        System.out.println(game.getBoard());
+        while (game.isNotOver()) {
+            System.out.println(game.play());
+        }
+
         Game game1 = new Game(playerIds, SnakeLadderGeneratorType.SIMPLE);
         System.out.println(game1.getBoard());
         while (game1.isNotOver()) {

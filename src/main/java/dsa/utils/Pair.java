@@ -45,6 +45,7 @@ public class Pair<X, Y> {
             "}";
     }
 
+    @SuppressWarnings("unchecked")
     @Override
     public boolean equals(Object o) {
         if (o == this)
