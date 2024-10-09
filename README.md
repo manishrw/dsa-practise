@@ -1,4 +1,5 @@
 # Tech Interview Practise
+[![Java CI with Maven](https://github.com/manishrw/dsa-practise/actions/workflows/ci-build.yml/badge.svg)](https://github.com/manishrw/dsa-practise/actions/workflows/ci-build.yml)
 
 A repository for Data structures and Algorithms practise. The repository also lists out the top interview questions asked by the companies till 2021. The repository also has a solution to some problems.
 
