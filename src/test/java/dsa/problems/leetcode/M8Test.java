@@ -36,6 +36,7 @@ public class M8Test
         assertEquals(Integer.MAX_VALUE, solution.myAtoi(s1));
     }
 
+    @SuppressWarnings("deprecation")
     @Test
     public void testWithIntMin()
     {
@@ -43,6 +44,7 @@ public class M8Test
         assertEquals(Integer.MIN_VALUE, solution.myAtoi(s1));
     }
 
+    @SuppressWarnings("deprecation")
     @Test
     public void testWithIntMax()
     {
