@@ -1,6 +1,6 @@
 package dsa.problems.leetcode;
 
-import dsa.problems.leetcode.M513.TreeNode;
+import dsa.utils.TreeNode;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -6,6 +6,8 @@ package dsa.problems.leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
+import dsa.utils.TreeNode;
+
 public class M1382 {
     public TreeNode balanceBST(TreeNode root) {
         // Preorder traversal
@@ -37,15 +39,5 @@ public class M1382 {
         inorderTraversal(root.left, nodes);
         nodes.add(root.val);
         inorderTraversal(root.right, nodes);
-    }
-
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
     }
 }

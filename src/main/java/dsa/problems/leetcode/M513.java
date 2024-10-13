@@ -4,23 +4,11 @@
 package dsa.problems.leetcode;
 
 import dsa.utils.Pair;
+import dsa.utils.TreeNode;
 
 import java.util.*;
 
 public class M513 {
-    static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode() {}
-        TreeNode(int val) { this.val = val; }
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
-    
     public int findBottomLeftValue(TreeNode root) {
         if (root == null) {
             return 0;

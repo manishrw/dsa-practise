@@ -3,26 +3,7 @@ package dsa.problems.scaler;
 
 import java.util.HashMap;
 
-class TreeNode {
-    public int val;
-    public TreeNode left;
-    public TreeNode right;
-
-    public TreeNode(int val) {
-        this.val = val;
-        this.left = null;
-        this.right = null;
-    }
-
-    @Override
-    public String toString() {
-        return "TreeNode{" +
-                "val=" + val +
-                (left != null ? ", left=" + left : "") +
-                (right != null ? ", right=" + right : "") +
-                '}';
-    }
-}
+import dsa.utils.TreeNode;
 
 public class Tree {
     public TreeNode root;
