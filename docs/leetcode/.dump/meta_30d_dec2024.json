@@ -1,0 +1,62 @@
+{
+    "data": {
+        "favoriteUserQuestionProgressV2": {
+            "numAcceptedQuestions": [
+                {
+                    "count": 8,
+                    "difficulty": "EASY"
+                },
+                {
+                    "count": 17,
+                    "difficulty": "MEDIUM"
+                },
+                {
+                    "count": 1,
+                    "difficulty": "HARD"
+                }
+            ],
+            "numFailedQuestions": [
+                {
+                    "count": 0,
+                    "difficulty": "EASY"
+                },
+                {
+                    "count": 0,
+                    "difficulty": "MEDIUM"
+                },
+                {
+                    "count": 1,
+                    "difficulty": "HARD"
+                }
+            ],
+            "numUntouchedQuestions": [
+                {
+                    "count": 36,
+                    "difficulty": "EASY"
+                },
+                {
+                    "count": 77,
+                    "difficulty": "MEDIUM"
+                },
+                {
+                    "count": 16,
+                    "difficulty": "HARD"
+                }
+            ],
+            "userSessionBeatsPercentage": [
+                {
+                    "difficulty": "EASY",
+                    "percentage": 36.52635810597181
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "percentage": 36.37270617923303
+                },
+                {
+                    "difficulty": "HARD",
+                    "percentage": 12.967527416660957
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,3164 @@
+{
+    "data": {
+        "favoriteQuestionList": {
+            "questions": [
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 1371,
+                    "paidOnly": false,
+                    "questionFrontendId": "1249",
+                    "status": "TO_DO",
+                    "title": "Minimum Remove to Make Valid Parentheses",
+                    "titleSlug": "minimum-remove-to-make-valid-parentheses",
+                    "topicTags": [
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Stack",
+                            "slug": "stack",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 100.0,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 408,
+                    "paidOnly": true,
+                    "questionFrontendId": "408",
+                    "status": "TO_DO",
+                    "title": "Valid Word Abbreviation",
+                    "titleSlug": "valid-word-abbreviation",
+                    "topicTags": [
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 94.0,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 227,
+                    "paidOnly": false,
+                    "questionFrontendId": "227",
+                    "status": "TO_DO",
+                    "title": "Basic Calculator II",
+                    "titleSlug": "basic-calculator-ii",
+                    "topicTags": [
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Stack",
+                            "slug": "stack",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 93.4,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 314,
+                    "paidOnly": true,
+                    "questionFrontendId": "314",
+                    "status": "TO_DO",
+                    "title": "Binary Tree Vertical Order Traversal",
+                    "titleSlug": "binary-tree-vertical-order-traversal",
+                    "topicTags": [
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 92.4,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 680,
+                    "paidOnly": false,
+                    "questionFrontendId": "680",
+                    "status": "TO_DO",
+                    "title": "Valid Palindrome II",
+                    "titleSlug": "valid-palindrome-ii",
+                    "topicTags": [
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Greedy",
+                            "slug": "greedy",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 92.4,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 215,
+                    "paidOnly": false,
+                    "questionFrontendId": "215",
+                    "status": "SOLVED",
+                    "title": "Kth Largest Element in an Array",
+                    "titleSlug": "kth-largest-element-in-an-array",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Divide and Conquer",
+                            "slug": "divide-and-conquer",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Heap (Priority Queue)",
+                            "slug": "heap-priority-queue",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Quickselect",
+                            "slug": "quickselect",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 90.4,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 1790,
+                    "paidOnly": true,
+                    "questionFrontendId": "1650",
+                    "status": "TO_DO",
+                    "title": "Lowest Common Ancestor of a Binary Tree III",
+                    "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iii",
+                    "topicTags": [
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 90.0,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 339,
+                    "paidOnly": true,
+                    "questionFrontendId": "339",
+                    "status": "TO_DO",
+                    "title": "Nested List Weight Sum",
+                    "titleSlug": "nested-list-weight-sum",
+                    "topicTags": [
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 87.8,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 912,
+                    "paidOnly": false,
+                    "questionFrontendId": "528",
+                    "status": "TO_DO",
+                    "title": "Random Pick with Weight",
+                    "titleSlug": "random-pick-with-weight",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Search",
+                            "slug": "binary-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Prefix Sum",
+                            "slug": "prefix-sum",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Randomized",
+                            "slug": "randomized",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 87.0,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 88,
+                    "paidOnly": false,
+                    "questionFrontendId": "88",
+                    "status": "TO_DO",
+                    "title": "Merge Sorted Array",
+                    "titleSlug": "merge-sorted-array",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 86.6,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 236,
+                    "paidOnly": false,
+                    "questionFrontendId": "236",
+                    "status": "TO_DO",
+                    "title": "Lowest Common Ancestor of a Binary Tree",
+                    "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+                    "topicTags": [
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 83.3,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 162,
+                    "paidOnly": false,
+                    "questionFrontendId": "162",
+                    "status": "TO_DO",
+                    "title": "Find Peak Element",
+                    "titleSlug": "find-peak-element",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Search",
+                            "slug": "binary-search",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 83.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 50,
+                    "paidOnly": false,
+                    "questionFrontendId": "50",
+                    "status": "TO_DO",
+                    "title": "Pow(x, n)",
+                    "titleSlug": "powx-n",
+                    "topicTags": [
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Recursion",
+                            "slug": "recursion",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 82.0,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 1171,
+                    "paidOnly": false,
+                    "questionFrontendId": "1091",
+                    "status": "TO_DO",
+                    "title": "Shortest Path in Binary Matrix",
+                    "titleSlug": "shortest-path-in-binary-matrix",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Matrix",
+                            "slug": "matrix",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 81.2,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 975,
+                    "paidOnly": false,
+                    "questionFrontendId": "938",
+                    "status": "TO_DO",
+                    "title": "Range Sum of BST",
+                    "titleSlug": "range-sum-of-bst",
+                    "topicTags": [
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Search Tree",
+                            "slug": "binary-search-tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 80.3,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 71,
+                    "paidOnly": false,
+                    "questionFrontendId": "71",
+                    "status": "SOLVED",
+                    "title": "Simplify Path",
+                    "titleSlug": "simplify-path",
+                    "topicTags": [
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Stack",
+                            "slug": "stack",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 79.4,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 199,
+                    "paidOnly": false,
+                    "questionFrontendId": "199",
+                    "status": "TO_DO",
+                    "title": "Binary Tree Right Side View",
+                    "titleSlug": "binary-tree-right-side-view",
+                    "topicTags": [
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 79.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 1713,
+                    "paidOnly": true,
+                    "questionFrontendId": "1570",
+                    "status": "TO_DO",
+                    "title": "Dot Product of Two Sparse Vectors",
+                    "titleSlug": "dot-product-of-two-sparse-vectors",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Design",
+                            "slug": "design",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 78.2,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 560,
+                    "paidOnly": false,
+                    "questionFrontendId": "560",
+                    "status": "TO_DO",
+                    "title": "Subarray Sum Equals K",
+                    "titleSlug": "subarray-sum-equals-k",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Prefix Sum",
+                            "slug": "prefix-sum",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 77.2,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 125,
+                    "paidOnly": false,
+                    "questionFrontendId": "125",
+                    "status": "SOLVED",
+                    "title": "Valid Palindrome",
+                    "titleSlug": "valid-palindrome",
+                    "topicTags": [
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 76.8,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 543,
+                    "paidOnly": false,
+                    "questionFrontendId": "543",
+                    "status": "TO_DO",
+                    "title": "Diameter of Binary Tree",
+                    "titleSlug": "diameter-of-binary-tree",
+                    "topicTags": [
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 76.8,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 56,
+                    "paidOnly": false,
+                    "questionFrontendId": "56",
+                    "status": "TO_DO",
+                    "title": "Merge Intervals",
+                    "titleSlug": "merge-intervals",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 75.3,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 1,
+                    "paidOnly": false,
+                    "questionFrontendId": "1",
+                    "status": "SOLVED",
+                    "title": "Two Sum",
+                    "titleSlug": "two-sum",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 74.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 138,
+                    "paidOnly": false,
+                    "questionFrontendId": "138",
+                    "status": "TO_DO",
+                    "title": "Copy List with Random Pointer",
+                    "titleSlug": "copy-list-with-random-pointer",
+                    "topicTags": [
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Linked List",
+                            "slug": "linked-list",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 74.2,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 347,
+                    "paidOnly": false,
+                    "questionFrontendId": "347",
+                    "status": "SOLVED",
+                    "title": "Top K Frequent Elements",
+                    "titleSlug": "top-k-frequent-elements",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Divide and Conquer",
+                            "slug": "divide-and-conquer",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Heap (Priority Queue)",
+                            "slug": "heap-priority-queue",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Bucket Sort",
+                            "slug": "bucket-sort",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Counting",
+                            "slug": "counting",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Quickselect",
+                            "slug": "quickselect",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 73.3,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 146,
+                    "paidOnly": false,
+                    "questionFrontendId": "146",
+                    "status": "TO_DO",
+                    "title": "LRU Cache",
+                    "titleSlug": "lru-cache",
+                    "topicTags": [
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Linked List",
+                            "slug": "linked-list",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Design",
+                            "slug": "design",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Doubly-Linked List",
+                            "slug": "doubly-linked-list",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 72.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 129,
+                    "paidOnly": false,
+                    "questionFrontendId": "129",
+                    "status": "TO_DO",
+                    "title": "Sum Root to Leaf Numbers",
+                    "titleSlug": "sum-root-to-leaf-numbers",
+                    "topicTags": [
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 72.0,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 1028,
+                    "paidOnly": false,
+                    "questionFrontendId": "986",
+                    "status": "TO_DO",
+                    "title": "Interval List Intersections",
+                    "titleSlug": "interval-list-intersections",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 72.0,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 31,
+                    "paidOnly": false,
+                    "questionFrontendId": "31",
+                    "status": "SOLVED",
+                    "title": "Next Permutation",
+                    "titleSlug": "next-permutation",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 71.5,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 1014,
+                    "paidOnly": false,
+                    "questionFrontendId": "973",
+                    "status": "TO_DO",
+                    "title": "K Closest Points to Origin",
+                    "titleSlug": "k-closest-points-to-origin",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Divide and Conquer",
+                            "slug": "divide-and-conquer",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Geometry",
+                            "slug": "geometry",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Heap (Priority Queue)",
+                            "slug": "heap-priority-queue",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Quickselect",
+                            "slug": "quickselect",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 71.5,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 1909,
+                    "paidOnly": true,
+                    "questionFrontendId": "1762",
+                    "status": "TO_DO",
+                    "title": "Buildings With an Ocean View",
+                    "titleSlug": "buildings-with-an-ocean-view",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Stack",
+                            "slug": "stack",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Monotonic Stack",
+                            "slug": "monotonic-stack",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 71.5,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 758,
+                    "paidOnly": true,
+                    "questionFrontendId": "426",
+                    "status": "TO_DO",
+                    "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+                    "titleSlug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+                    "topicTags": [
+                        {
+                            "name": "Linked List",
+                            "slug": "linked-list",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Stack",
+                            "slug": "stack",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Search Tree",
+                            "slug": "binary-search-tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Doubly-Linked List",
+                            "slug": "doubly-linked-list",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 71.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 957,
+                    "paidOnly": false,
+                    "questionFrontendId": "921",
+                    "status": "TO_DO",
+                    "title": "Minimum Add to Make Parentheses Valid",
+                    "titleSlug": "minimum-add-to-make-parentheses-valid",
+                    "topicTags": [
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Stack",
+                            "slug": "stack",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Greedy",
+                            "slug": "greedy",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 71.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "HARD",
+                    "id": 23,
+                    "paidOnly": false,
+                    "questionFrontendId": "23",
+                    "status": "TO_DO",
+                    "title": "Merge k Sorted Lists",
+                    "titleSlug": "merge-k-sorted-lists",
+                    "topicTags": [
+                        {
+                            "name": "Linked List",
+                            "slug": "linked-list",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Divide and Conquer",
+                            "slug": "divide-and-conquer",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Heap (Priority Queue)",
+                            "slug": "heap-priority-queue",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Merge Sort",
+                            "slug": "merge-sort",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 70.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 1046,
+                    "paidOnly": false,
+                    "questionFrontendId": "1004",
+                    "status": "TO_DO",
+                    "title": "Max Consecutive Ones III",
+                    "titleSlug": "max-consecutive-ones-iii",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Search",
+                            "slug": "binary-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sliding Window",
+                            "slug": "sliding-window",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Prefix Sum",
+                            "slug": "prefix-sum",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 69.6,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 346,
+                    "paidOnly": true,
+                    "questionFrontendId": "346",
+                    "status": "TO_DO",
+                    "title": "Moving Average from Data Stream",
+                    "titleSlug": "moving-average-from-data-stream",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Design",
+                            "slug": "design",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Queue",
+                            "slug": "queue",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Data Stream",
+                            "slug": "data-stream",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 67.4,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 670,
+                    "paidOnly": false,
+                    "questionFrontendId": "670",
+                    "status": "TO_DO",
+                    "title": "Maximum Swap",
+                    "titleSlug": "maximum-swap",
+                    "topicTags": [
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Greedy",
+                            "slug": "greedy",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 64.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 807,
+                    "paidOnly": false,
+                    "questionFrontendId": "791",
+                    "status": "TO_DO",
+                    "title": "Custom Sort String",
+                    "titleSlug": "custom-sort-string",
+                    "topicTags": [
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 64.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "HARD",
+                    "id": 1029,
+                    "paidOnly": false,
+                    "questionFrontendId": "987",
+                    "status": "TO_DO",
+                    "title": "Vertical Order Traversal of a Binary Tree",
+                    "titleSlug": "vertical-order-traversal-of-a-binary-tree",
+                    "topicTags": [
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 64.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 133,
+                    "paidOnly": false,
+                    "questionFrontendId": "133",
+                    "status": "TO_DO",
+                    "title": "Clone Graph",
+                    "titleSlug": "clone-graph",
+                    "topicTags": [
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Graph",
+                            "slug": "graph",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 63.6,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 283,
+                    "paidOnly": false,
+                    "questionFrontendId": "283",
+                    "status": "TO_DO",
+                    "title": "Move Zeroes",
+                    "titleSlug": "move-zeroes",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 63.6,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 1646,
+                    "paidOnly": false,
+                    "questionFrontendId": "1539",
+                    "status": "TO_DO",
+                    "title": "Kth Missing Positive Number",
+                    "titleSlug": "kth-missing-positive-number",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Search",
+                            "slug": "binary-search",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 62.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "HARD",
+                    "id": 65,
+                    "paidOnly": false,
+                    "questionFrontendId": "65",
+                    "status": "TO_DO",
+                    "title": "Valid Number",
+                    "titleSlug": "valid-number",
+                    "topicTags": [
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 60.5,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "HARD",
+                    "id": 76,
+                    "paidOnly": false,
+                    "questionFrontendId": "76",
+                    "status": "TO_DO",
+                    "title": "Minimum Window Substring",
+                    "titleSlug": "minimum-window-substring",
+                    "topicTags": [
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sliding Window",
+                            "slug": "sliding-window",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 60.5,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 850,
+                    "paidOnly": true,
+                    "questionFrontendId": "708",
+                    "status": "TO_DO",
+                    "title": "Insert into a Sorted Circular Linked List",
+                    "titleSlug": "insert-into-a-sorted-circular-linked-list",
+                    "topicTags": [
+                        {
+                            "name": "Linked List",
+                            "slug": "linked-list",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 59.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 14,
+                    "paidOnly": false,
+                    "questionFrontendId": "14",
+                    "status": "TO_DO",
+                    "title": "Longest Common Prefix",
+                    "titleSlug": "longest-common-prefix",
+                    "topicTags": [
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Trie",
+                            "slug": "trie",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 58.8,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 163,
+                    "paidOnly": true,
+                    "questionFrontendId": "163",
+                    "status": "TO_DO",
+                    "title": "Missing Ranges",
+                    "titleSlug": "missing-ranges",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 58.8,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 777,
+                    "paidOnly": false,
+                    "questionFrontendId": "766",
+                    "status": "TO_DO",
+                    "title": "Toeplitz Matrix",
+                    "titleSlug": "toeplitz-matrix",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Matrix",
+                            "slug": "matrix",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 58.8,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 15,
+                    "paidOnly": false,
+                    "questionFrontendId": "15",
+                    "status": "SOLVED",
+                    "title": "3Sum",
+                    "titleSlug": "3sum",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 57.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 173,
+                    "paidOnly": false,
+                    "questionFrontendId": "173",
+                    "status": "SOLVED",
+                    "title": "Binary Search Tree Iterator",
+                    "titleSlug": "binary-search-tree-iterator",
+                    "topicTags": [
+                        {
+                            "name": "Stack",
+                            "slug": "stack",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Design",
+                            "slug": "design",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Search Tree",
+                            "slug": "binary-search-tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Iterator",
+                            "slug": "iterator",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 57.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 270,
+                    "paidOnly": true,
+                    "questionFrontendId": "270",
+                    "status": "TO_DO",
+                    "title": "Closest Binary Search Tree Value",
+                    "titleSlug": "closest-binary-search-tree-value",
+                    "topicTags": [
+                        {
+                            "name": "Binary Search",
+                            "slug": "binary-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Search Tree",
+                            "slug": "binary-search-tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 57.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 893,
+                    "paidOnly": false,
+                    "questionFrontendId": "863",
+                    "status": "TO_DO",
+                    "title": "All Nodes Distance K in Binary Tree",
+                    "titleSlug": "all-nodes-distance-k-in-binary-tree",
+                    "topicTags": [
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 57.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 2,
+                    "paidOnly": false,
+                    "questionFrontendId": "2",
+                    "status": "SOLVED",
+                    "title": "Add Two Numbers",
+                    "titleSlug": "add-two-numbers",
+                    "topicTags": [
+                        {
+                            "name": "Linked List",
+                            "slug": "linked-list",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Recursion",
+                            "slug": "recursion",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 56.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 415,
+                    "paidOnly": false,
+                    "questionFrontendId": "415",
+                    "status": "TO_DO",
+                    "title": "Add Strings",
+                    "titleSlug": "add-strings",
+                    "topicTags": [
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Simulation",
+                            "slug": "simulation",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 56.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 636,
+                    "paidOnly": false,
+                    "questionFrontendId": "636",
+                    "status": "TO_DO",
+                    "title": "Exclusive Time of Functions",
+                    "titleSlug": "exclusive-time-of-functions",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Stack",
+                            "slug": "stack",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 56.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "HARD",
+                    "id": 854,
+                    "paidOnly": false,
+                    "questionFrontendId": "827",
+                    "status": "TO_DO",
+                    "title": "Making A Large Island",
+                    "titleSlug": "making-a-large-island",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Union Find",
+                            "slug": "union-find",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Matrix",
+                            "slug": "matrix",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 56.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "HARD",
+                    "id": 1178,
+                    "paidOnly": true,
+                    "questionFrontendId": "1216",
+                    "status": "TO_DO",
+                    "title": "Valid Palindrome III",
+                    "titleSlug": "valid-palindrome-iii",
+                    "topicTags": [
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Dynamic Programming",
+                            "slug": "dynamic-programming",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 56.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 34,
+                    "paidOnly": false,
+                    "questionFrontendId": "34",
+                    "status": "TO_DO",
+                    "title": "Find First and Last Position of Element in Sorted Array",
+                    "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Search",
+                            "slug": "binary-search",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 55.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 498,
+                    "paidOnly": false,
+                    "questionFrontendId": "498",
+                    "status": "TO_DO",
+                    "title": "Diagonal Traverse",
+                    "titleSlug": "diagonal-traverse",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Matrix",
+                            "slug": "matrix",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Simulation",
+                            "slug": "simulation",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 55.9,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 121,
+                    "paidOnly": false,
+                    "questionFrontendId": "121",
+                    "status": "SOLVED",
+                    "title": "Best Time to Buy and Sell Stock",
+                    "titleSlug": "best-time-to-buy-and-sell-stock",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Dynamic Programming",
+                            "slug": "dynamic-programming",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 54.8,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 398,
+                    "paidOnly": false,
+                    "questionFrontendId": "398",
+                    "status": "TO_DO",
+                    "title": "Random Pick Index",
+                    "titleSlug": "random-pick-index",
+                    "topicTags": [
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Reservoir Sampling",
+                            "slug": "reservoir-sampling",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Randomized",
+                            "slug": "randomized",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 54.8,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 1128,
+                    "paidOnly": false,
+                    "questionFrontendId": "1047",
+                    "status": "TO_DO",
+                    "title": "Remove All Adjacent Duplicates In String",
+                    "titleSlug": "remove-all-adjacent-duplicates-in-string",
+                    "topicTags": [
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Stack",
+                            "slug": "stack",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 54.8,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 2809,
+                    "paidOnly": false,
+                    "questionFrontendId": "2667",
+                    "status": "TO_DO",
+                    "title": "Create Hello World Function",
+                    "titleSlug": "create-hello-world-function",
+                    "topicTags": [],
+                    "isInMyFavorites": false,
+                    "frequency": 54.8,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 249,
+                    "paidOnly": true,
+                    "questionFrontendId": "249",
+                    "status": "TO_DO",
+                    "title": "Group Shifted Strings",
+                    "titleSlug": "group-shifted-strings",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 53.6,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 721,
+                    "paidOnly": false,
+                    "questionFrontendId": "721",
+                    "status": "TO_DO",
+                    "title": "Accounts Merge",
+                    "titleSlug": "accounts-merge",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Union Find",
+                            "slug": "union-find",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 53.6,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "HARD",
+                    "id": 282,
+                    "paidOnly": false,
+                    "questionFrontendId": "282",
+                    "status": "TO_DO",
+                    "title": "Expression Add Operators",
+                    "titleSlug": "expression-add-operators",
+                    "topicTags": [
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Backtracking",
+                            "slug": "backtracking",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 52.4,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 78,
+                    "paidOnly": false,
+                    "questionFrontendId": "78",
+                    "status": "SOLVED",
+                    "title": "Subsets",
+                    "titleSlug": "subsets",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Backtracking",
+                            "slug": "backtracking",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Bit Manipulation",
+                            "slug": "bit-manipulation",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 51.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 200,
+                    "paidOnly": false,
+                    "questionFrontendId": "200",
+                    "status": "SOLVED",
+                    "title": "Number of Islands",
+                    "titleSlug": "number-of-islands",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Union Find",
+                            "slug": "union-find",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Matrix",
+                            "slug": "matrix",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 51.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "HARD",
+                    "id": 329,
+                    "paidOnly": false,
+                    "questionFrontendId": "329",
+                    "status": "ATTEMPTED",
+                    "title": "Longest Increasing Path in a Matrix",
+                    "titleSlug": "longest-increasing-path-in-a-matrix",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Dynamic Programming",
+                            "slug": "dynamic-programming",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Graph",
+                            "slug": "graph",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Topological Sort",
+                            "slug": "topological-sort",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Memoization",
+                            "slug": "memoization",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Matrix",
+                            "slug": "matrix",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 51.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 998,
+                    "paidOnly": false,
+                    "questionFrontendId": "958",
+                    "status": "TO_DO",
+                    "title": "Check Completeness of a Binary Tree",
+                    "titleSlug": "check-completeness-of-a-binary-tree",
+                    "topicTags": [
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 51.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 1894,
+                    "paidOnly": false,
+                    "questionFrontendId": "1768",
+                    "status": "TO_DO",
+                    "title": "Merge Strings Alternately",
+                    "titleSlug": "merge-strings-alternately",
+                    "topicTags": [
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 51.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 8,
+                    "paidOnly": false,
+                    "questionFrontendId": "8",
+                    "status": "TO_DO",
+                    "title": "String to Integer (atoi)",
+                    "titleSlug": "string-to-integer-atoi",
+                    "topicTags": [
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 49.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 116,
+                    "paidOnly": false,
+                    "questionFrontendId": "116",
+                    "status": "TO_DO",
+                    "title": "Populating Next Right Pointers in Each Node",
+                    "titleSlug": "populating-next-right-pointers-in-each-node",
+                    "topicTags": [
+                        {
+                            "name": "Linked List",
+                            "slug": "linked-list",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 49.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 139,
+                    "paidOnly": false,
+                    "questionFrontendId": "139",
+                    "status": "TO_DO",
+                    "title": "Word Break",
+                    "titleSlug": "word-break",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Dynamic Programming",
+                            "slug": "dynamic-programming",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Trie",
+                            "slug": "trie",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Memoization",
+                            "slug": "memoization",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 49.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 169,
+                    "paidOnly": false,
+                    "questionFrontendId": "169",
+                    "status": "TO_DO",
+                    "title": "Majority Element",
+                    "titleSlug": "majority-element",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Divide and Conquer",
+                            "slug": "divide-and-conquer",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Counting",
+                            "slug": "counting",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 49.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 253,
+                    "paidOnly": true,
+                    "questionFrontendId": "253",
+                    "status": "SOLVED",
+                    "title": "Meeting Rooms II",
+                    "titleSlug": "meeting-rooms-ii",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Greedy",
+                            "slug": "greedy",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Heap (Priority Queue)",
+                            "slug": "heap-priority-queue",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Prefix Sum",
+                            "slug": "prefix-sum",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 49.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 20,
+                    "paidOnly": false,
+                    "questionFrontendId": "20",
+                    "status": "SOLVED",
+                    "title": "Valid Parentheses",
+                    "titleSlug": "valid-parentheses",
+                    "topicTags": [
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Stack",
+                            "slug": "stack",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 48.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 207,
+                    "paidOnly": false,
+                    "questionFrontendId": "207",
+                    "status": "TO_DO",
+                    "title": "Course Schedule",
+                    "titleSlug": "course-schedule",
+                    "topicTags": [
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Graph",
+                            "slug": "graph",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Topological Sort",
+                            "slug": "topological-sort",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 48.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "HARD",
+                    "id": 269,
+                    "paidOnly": true,
+                    "questionFrontendId": "269",
+                    "status": "TO_DO",
+                    "title": "Alien Dictionary",
+                    "titleSlug": "alien-dictionary",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Graph",
+                            "slug": "graph",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Topological Sort",
+                            "slug": "topological-sort",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 48.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 380,
+                    "paidOnly": false,
+                    "questionFrontendId": "380",
+                    "status": "SOLVED",
+                    "title": "Insert Delete GetRandom O(1)",
+                    "titleSlug": "insert-delete-getrandom-o1",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Design",
+                            "slug": "design",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Randomized",
+                            "slug": "randomized",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 48.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 523,
+                    "paidOnly": false,
+                    "questionFrontendId": "523",
+                    "status": "TO_DO",
+                    "title": "Continuous Subarray Sum",
+                    "titleSlug": "continuous-subarray-sum",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Prefix Sum",
+                            "slug": "prefix-sum",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 48.1,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "HARD",
+                    "id": 4,
+                    "paidOnly": false,
+                    "questionFrontendId": "4",
+                    "status": "TO_DO",
+                    "title": "Median of Two Sorted Arrays",
+                    "titleSlug": "median-of-two-sorted-arrays",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Search",
+                            "slug": "binary-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Divide and Conquer",
+                            "slug": "divide-and-conquer",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 46.5,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 17,
+                    "paidOnly": false,
+                    "questionFrontendId": "17",
+                    "status": "TO_DO",
+                    "title": "Letter Combinations of a Phone Number",
+                    "titleSlug": "letter-combinations-of-a-phone-number",
+                    "topicTags": [
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Backtracking",
+                            "slug": "backtracking",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 46.5,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 647,
+                    "paidOnly": false,
+                    "questionFrontendId": "647",
+                    "status": "TO_DO",
+                    "title": "Palindromic Substrings",
+                    "titleSlug": "palindromic-substrings",
+                    "topicTags": [
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Dynamic Programming",
+                            "slug": "dynamic-programming",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 46.5,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 735,
+                    "paidOnly": false,
+                    "questionFrontendId": "735",
+                    "status": "TO_DO",
+                    "title": "Asteroid Collision",
+                    "titleSlug": "asteroid-collision",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Stack",
+                            "slug": "stack",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Simulation",
+                            "slug": "simulation",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 46.5,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 1908,
+                    "paidOnly": false,
+                    "questionFrontendId": "1757",
+                    "status": "SOLVED",
+                    "title": "Recyclable and Low Fat Products",
+                    "titleSlug": "recyclable-and-low-fat-products",
+                    "topicTags": [
+                        {
+                            "name": "Database",
+                            "slug": "database",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 46.5,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 9,
+                    "paidOnly": false,
+                    "questionFrontendId": "9",
+                    "status": "TO_DO",
+                    "title": "Palindrome Number",
+                    "titleSlug": "palindrome-number",
+                    "topicTags": [
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 44.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 48,
+                    "paidOnly": false,
+                    "questionFrontendId": "48",
+                    "status": "TO_DO",
+                    "title": "Rotate Image",
+                    "titleSlug": "rotate-image",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Math",
+                            "slug": "math",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Matrix",
+                            "slug": "matrix",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 44.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 219,
+                    "paidOnly": false,
+                    "questionFrontendId": "219",
+                    "status": "TO_DO",
+                    "title": "Contains Duplicate II",
+                    "titleSlug": "contains-duplicate-ii",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sliding Window",
+                            "slug": "sliding-window",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 44.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 5,
+                    "paidOnly": false,
+                    "questionFrontendId": "5",
+                    "status": "TO_DO",
+                    "title": "Longest Palindromic Substring",
+                    "titleSlug": "longest-palindromic-substring",
+                    "topicTags": [
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Dynamic Programming",
+                            "slug": "dynamic-programming",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 42.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 19,
+                    "paidOnly": false,
+                    "questionFrontendId": "19",
+                    "status": "TO_DO",
+                    "title": "Remove Nth Node From End of List",
+                    "titleSlug": "remove-nth-node-from-end-of-list",
+                    "topicTags": [
+                        {
+                            "name": "Linked List",
+                            "slug": "linked-list",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 42.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "HARD",
+                    "id": 127,
+                    "paidOnly": false,
+                    "questionFrontendId": "127",
+                    "status": "SOLVED",
+                    "title": "Word Ladder",
+                    "titleSlug": "word-ladder",
+                    "topicTags": [
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "slug": "breadth-first-search",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 42.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 378,
+                    "paidOnly": false,
+                    "questionFrontendId": "378",
+                    "status": "TO_DO",
+                    "title": "Kth Smallest Element in a Sorted Matrix",
+                    "titleSlug": "kth-smallest-element-in-a-sorted-matrix",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Search",
+                            "slug": "binary-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Heap (Priority Queue)",
+                            "slug": "heap-priority-queue",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Matrix",
+                            "slug": "matrix",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 42.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 851,
+                    "paidOnly": false,
+                    "questionFrontendId": "824",
+                    "status": "TO_DO",
+                    "title": "Goat Latin",
+                    "titleSlug": "goat-latin",
+                    "topicTags": [
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 42.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 852,
+                    "paidOnly": false,
+                    "questionFrontendId": "825",
+                    "status": "TO_DO",
+                    "title": "Friends Of Appropriate Ages",
+                    "titleSlug": "friends-of-appropriate-ages",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Search",
+                            "slug": "binary-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 42.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 1019,
+                    "paidOnly": false,
+                    "questionFrontendId": "977",
+                    "status": "TO_DO",
+                    "title": "Squares of a Sorted Array",
+                    "titleSlug": "squares-of-a-sorted-array",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 42.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 1539,
+                    "paidOnly": false,
+                    "questionFrontendId": "1424",
+                    "status": "TO_DO",
+                    "title": "Diagonal Traverse II",
+                    "titleSlug": "diagonal-traverse-ii",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Heap (Priority Queue)",
+                            "slug": "heap-priority-queue",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 42.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 1780,
+                    "paidOnly": true,
+                    "questionFrontendId": "1644",
+                    "status": "TO_DO",
+                    "title": "Lowest Common Ancestor of a Binary Tree II",
+                    "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+                    "topicTags": [
+                        {
+                            "name": "Tree",
+                            "slug": "tree",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "slug": "depth-first-search",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "slug": "binary-tree",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 42.7,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "EASY",
+                    "id": 26,
+                    "paidOnly": false,
+                    "questionFrontendId": "26",
+                    "status": "SOLVED",
+                    "title": "Remove Duplicates from Sorted Array",
+                    "titleSlug": "remove-duplicates-from-sorted-array",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "slug": "two-pointers",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 40.5,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                },
+                {
+                    "difficulty": "MEDIUM",
+                    "id": 49,
+                    "paidOnly": false,
+                    "questionFrontendId": "49",
+                    "status": "SOLVED",
+                    "title": "Group Anagrams",
+                    "titleSlug": "group-anagrams",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "slug": "array",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "slug": "hash-table",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "String",
+                            "slug": "string",
+                            "__typename": "CommonTagNode"
+                        },
+                        {
+                            "name": "Sorting",
+                            "slug": "sorting",
+                            "__typename": "CommonTagNode"
+                        }
+                    ],
+                    "isInMyFavorites": false,
+                    "frequency": 40.5,
+                    "acRate": null,
+                    "__typename": "FavoriteQuestionNode"
+                }
+            ],
+            "totalLength": 356,
+            "hasMore": true
+        }
+    }
+}
