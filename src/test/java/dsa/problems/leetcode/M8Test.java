@@ -36,19 +36,17 @@ public class M8Test
         assertEquals(Integer.MAX_VALUE, solution.myAtoi(s1));
     }
 
-    @SuppressWarnings("deprecation")
     @Test
     public void testWithIntMin()
     {
-        String s1 = new Integer(Integer.MIN_VALUE).toString();
+        String s1 = String.valueOf(Integer.MIN_VALUE);
         assertEquals(Integer.MIN_VALUE, solution.myAtoi(s1));
     }
 
-    @SuppressWarnings("deprecation")
     @Test
     public void testWithIntMax()
     {
-        String s1 = new Integer(Integer.MAX_VALUE).toString();
+        String s1 = String.valueOf(Integer.MAX_VALUE);
         assertEquals(Integer.MAX_VALUE, solution.myAtoi(s1));
     }
 
