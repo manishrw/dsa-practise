@@ -22,6 +22,7 @@ class M2502Test {
             executeTests(commands, inputs, outputs);
         }
 
+        @SuppressWarnings("unused")
         @Test
         void test3() {
             var commands = new String[]{"Allocator", "freeMemory", "freeMemory", "freeMemory", "freeMemory", "freeMemory", "allocate", "allocate", "allocate", "freeMemory", "freeMemory", "freeMemory", "allocate", "allocate", "freeMemory", "freeMemory", "freeMemory", "allocate", "allocate", "freeMemory", "allocate", "allocate", "allocate", "freeMemory", "freeMemory", "freeMemory", "freeMemory", "freeMemory", "freeMemory", "freeMemory", "allocate", "freeMemory", "allocate", "freeMemory", "allocate", "allocate", "freeMemory", "allocate", "allocate", "freeMemory", "freeMemory", "allocate", "freeMemory", "freeMemory", "allocate", "allocate", "allocate", "freeMemory", "allocate", "allocate", "freeMemory", "freeMemory", "allocate", "allocate", "allocate", "freeMemory", "allocate", "allocate", "freeMemory", "freeMemory", "freeMemory", "allocate", "freeMemory", "freeMemory", "freeMemory", "freeMemory", "allocate", "allocate", "allocate", "freeMemory", "allocate", "freeMemory", "freeMemory", "allocate", "freeMemory", "allocate", "freeMemory", "freeMemory"};
